@@ -18,7 +18,7 @@
           @endif
           <div class="mb-3">
             <label class="form-label">Email</label>
-            <input type="text" class="form-control" name="email" value="mail@mail.com" placeholder="Email">
+            <input type="text" class="form-control" name="email" value="" placeholder="Email">
           </div>
           <div class="mb-3">
             <label class="form-label">Пароль</label>
